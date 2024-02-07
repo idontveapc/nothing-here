@@ -5,7 +5,7 @@
 > [!Note]
 > Non-vector font has space unicode removed.
 
-> [!Plan]
+> [!info]
 > Fonts were made to work apart from system, or change the use of font to the user.
 
 ### Info
