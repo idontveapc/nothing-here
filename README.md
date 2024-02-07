@@ -1,0 +1,4 @@
+> [!IMPORTANT]
+> [!Note]
+> [!Idea]
+> [!Caution]
